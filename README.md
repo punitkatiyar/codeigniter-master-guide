@@ -2,10 +2,10 @@
 
 ## PHP CodeIgniter Framework Module For Developer
 
-- ### controler
+- ### Controler
 - ### View
-- Models
-- helpers
-- Libraries
-- Database
+- ### Models
+- ### Helpers
+- ### Libraries
+- ### Database
 

@@ -1,6 +1,6 @@
 # codeigniter4
 
-## basic of php core and function and oops concepts
+## Basic Of PHP Core And Function And OOPS Concepts
 
 > xampp 
 > php.ini

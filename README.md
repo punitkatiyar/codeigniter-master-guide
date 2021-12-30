@@ -2,6 +2,10 @@
 
 ## basic of php core and function and oops concepts
 
+> xampp 
+> php.ini
+> htdocs
+
 ## Server Requirements
 
 PHP version 7.3 or higher is required, with the following extensions installed:

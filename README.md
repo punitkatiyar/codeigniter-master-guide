@@ -1,6 +1,6 @@
-# codeigniter
+# codeigniter4
 
-## basic of php core
+## basic of php core and function and oops concepts
 
 ## Server Requirements
 

@@ -1,2 +1,2 @@
-# Blog layout HTML CSS JS Bootstrap
+# Blog Layout HTML CSS JS Bootstrap
 

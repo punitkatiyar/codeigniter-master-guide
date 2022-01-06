@@ -26,6 +26,8 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 - ### Controler
 
+$route['^(?!other|controller).*']='punit/$0';
+
 <pre>
 defined('BASEPATH') OR exit('No direct script access allowed');
 class Blog extends CI_Controller {

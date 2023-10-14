@@ -1,4 +1,6 @@
-**MVC, which stands for Model-View-Controller, is a design pattern commonly used in web development, including PHP applications. It is a way to organize the code and separate concerns in a web application to make it more maintainable and scalable.**
+# What Is MVC
+
+**MVC a design pattern commonly used in web development, including PHP applications. It is a way to organize the code and separate concerns in a web application to make it more maintainable and scalable.**
 
 **Model:** The Model represents the data and the business logic of your application. It is responsible for interacting with the database, processing data, and enforcing the rules of the application. In PHP, models are often classes that interact with a database or other data sources.
 

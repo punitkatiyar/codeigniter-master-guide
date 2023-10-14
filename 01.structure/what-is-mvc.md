@@ -13,3 +13,12 @@
 <hr>
 
 **Controller:** The Controller acts as an intermediary between the Model and the View. It receives requests from the user, processes them, interacts with the Model to retrieve or update data, and then passes that data to the View for rendering. In PHP, controllers are typically PHP scripts that handle incoming requests and control the flow of the application.
+
+## Basic flow of how MVC works in a PHP application:
+
+- A user makes a request to a specific URL in the application.
+- The request is first routed to a controller, which determines what action needs to be taken.
+- The controller interacts with the Model to retrieve or update data as necessary.
+- The Model returns the data to the controller.
+- The controller then passes the data to the View for rendering.
+- The View generates the HTML and sends it back to the user's browser.

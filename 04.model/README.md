@@ -13,3 +13,14 @@ class Cimodel extends CI_Model {
 }
 ?>
 ```
+
+## Call The Model
+
+```
+public function __construct()
+    {
+        parent::__construct();
+        $this->load->model('Cimodel');
+
+    }
+```

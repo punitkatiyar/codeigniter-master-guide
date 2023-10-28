@@ -23,4 +23,8 @@ public function __construct()
         $this->load->model('Cimodel');
 
     }
+
+{
+	$data['arr']=$this->Cimodel->ciview();
+}
 ```
